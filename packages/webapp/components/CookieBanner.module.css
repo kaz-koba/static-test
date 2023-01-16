@@ -1,0 +1,6 @@
+.cookieBanner {
+  z-index: 20;
+  @screen laptop {
+    left: unset
+  }
+}
